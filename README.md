@@ -16,6 +16,5 @@ Efficiency: The model provides rapid predictions, facilitating swift decision-ma
 
 Continuous Learning: The model can be continually updated and improved with new data, ensuring that it remains relevant and effective even as medical knowledge evolves.
 
-User-Friendly Interface: Our Heart Disease Detection Model is complemented by an intuitive user interface, making it accessible to medical practitioners and healthcare providers of varying technical backgrounds.
 
 In an era where data-driven solutions are shaping the future of healthcare, our Heart Disease Detection Model stands at the forefront of innovation. By harnessing the prowess of AI and Machine Learning, we're taking significant strides towards more accurate and efficient heart disease detection, ultimately contributing to enhanced patient care and improved health outcomes.
